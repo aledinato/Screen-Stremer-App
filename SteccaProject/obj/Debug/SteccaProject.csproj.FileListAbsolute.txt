@@ -1,0 +1,32 @@
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.exe.config
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.exe
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.pdb
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.AssemblyReference.cache
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.Form1.resources
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.Properties.Resources.resources
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.GenerateResource.cache
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.exe
+C:\Users\Alessandro Dinato\iCloudDrive\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.pdb
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.exe.config
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.exe
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.pdb
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.AssemblyReference.cache
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.SuggestedBindingRedirects.cache
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.Form1.resources
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.Properties.Resources.resources
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.GenerateResource.cache
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.exe
+\\Mac\iCloud\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.pdb
+Y:\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.exe.config
+Y:\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.exe
+Y:\scuola\informatica\SteccaProject\SteccaProject\bin\Debug\SteccaProject.pdb
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.AssemblyReference.cache
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.SuggestedBindingRedirects.cache
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.Form1.resources
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.Properties.Resources.resources
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.GenerateResource.cache
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.csproj.CoreCompileInputs.cache
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.exe
+Y:\scuola\informatica\SteccaProject\SteccaProject\obj\Debug\SteccaProject.pdb
